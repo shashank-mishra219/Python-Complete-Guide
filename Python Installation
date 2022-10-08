@@ -1,3 +1,12 @@
-# Install Python in windows
+# First verify if Python & Pip already installed
+python3 --version
+pip3 --version
 
-https://phoenixnap.com/kb/how-to-install-python-3-windows
+# Install Python in windows
+https://docs.python-guide.org/starting/install3/win/
+
+# Install Python in Linux
+https://docs.python-guide.org/starting/install3/linux/
+
+# Install Python in Mac
+https://docs.python-guide.org/starting/install3/osx/
